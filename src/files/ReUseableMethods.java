@@ -18,6 +18,9 @@ public class ReUseableMethods {
 		 System.out.println("this is first comment");
 			System.out.println("this is second comment");
 			System.out.println("this is thirs comment");
+			System.out.println("this is thirs comment");
+			System.out.println("this is from new develop");
+			System.out.println("this is 2nd comment new develop");
 		 JsonPath js1 = new JsonPath(getPlaceResponse);
 		 return js1;
 	 }
