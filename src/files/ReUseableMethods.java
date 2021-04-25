@@ -21,6 +21,7 @@ public class ReUseableMethods {
 			System.out.println("this is thirs comment");
 			System.out.println("this is from new develop");
 			System.out.println("this is 2nd comment new develop");
+			System.out.println("this is new check in by American guy");
 		 JsonPath js1 = new JsonPath(getPlaceResponse);
 		 return js1;
 	 }
